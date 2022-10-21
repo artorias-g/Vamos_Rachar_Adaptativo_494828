@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vamos_Rachar_494828</string>
+    <string name="title">Vamos Rachar!</string>
+    <string name="result">Quanto fica pra cada?</string>
+    <string name="valor">Quanto deu?</string>
+    <string name="qtd">Quantos somos?</string>
+    <string name="share">Fica</string>
+    <string name="share2">reais pra cada!</string>
+    <string name="nightSwitch">Modo noturno</string>
+    <color name="fundo">#08415C</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vamos_Rachar_494828</string>
+    <string name="title">Let\&#39;s Split!</string>
+    <string name="result">How much for each?</string>
+    <string name="valor">How much was it?</string>
+    <string name="qtd">How many are we?</string>
+    <string name="share">It\&#39;s</string>
+    <string name="share2">reais each!</string>
+    <string name="nightSwitch">Night mode</string>
+    <color name="fundo">#08415C</color>
+</resources>
